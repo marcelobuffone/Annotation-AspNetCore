@@ -1,0 +1,8 @@
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Domain.Core\bin\Debug\netcoreapp3.0\MBAM.Annotations.Domain.Core.deps.json
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Domain.Core\bin\Debug\netcoreapp3.0\MBAM.Annotations.Domain.Core.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Domain.Core\bin\Debug\netcoreapp3.0\MBAM.Annotations.Domain.Core.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Domain.Core\obj\Debug\netcoreapp3.0\MBAM.Annotations.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Domain.Core\obj\Debug\netcoreapp3.0\MBAM.Annotations.Domain.Core.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Domain.Core\obj\Debug\netcoreapp3.0\MBAM.Annotations.Domain.Core.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Domain.Core\obj\Debug\netcoreapp3.0\MBAM.Annotations.Domain.Core.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Domain.Core\obj\Debug\netcoreapp3.0\MBAM.Annotations.Domain.Core.csprojAssemblyReference.cache

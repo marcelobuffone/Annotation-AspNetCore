@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJ7piU+bEc4TegF534fUVeyE3LZDYUlDJfs5DWOIxphkAxvwkmKUa15wfYEwuHz/ARsCkd48VmV4YI3g2n6yAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.Bus\\MBAM.Annotations.Infra.CrossCutting.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\fluentvalidation\\8.5.0-preview4\\fluentvalidation.8.5.0-preview4.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

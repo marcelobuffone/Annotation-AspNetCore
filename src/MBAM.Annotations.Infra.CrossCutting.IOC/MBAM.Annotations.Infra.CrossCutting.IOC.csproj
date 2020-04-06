@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.0-preview1.19506.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MBAM.Annotations.Application\MBAM.Annotations.Application.csproj" />
+    <ProjectReference Include="..\MBAM.Annotations.Domain\MBAM.Annotations.Domain.csproj" />
+    <ProjectReference Include="..\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj" />
+    <ProjectReference Include="..\MBAM.Annotations.Infra.CrossCutting.Bus\MBAM.Annotations.Infra.CrossCutting.Bus.csproj" />
+    <ProjectReference Include="..\MBAM.Annotations.Infra.Data\MBAM.Annotations.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

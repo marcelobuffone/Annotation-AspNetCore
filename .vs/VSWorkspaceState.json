@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src\\MBAM.Annotations.Domain",
+    "\\src\\MBAM.Annotations.Domain.Core",
+    "\\src\\MBAM.Annotations.Domain.Core\\Events",
+    "\\src\\MBAM.Annotations.Domain.Core\\Models",
+    "\\src\\MBAM.Annotations.Domain\\Annotations",
+    "\\src\\MBAM.Annotations.Domain\\Annotations\\Commands",
+    "\\src\\MBAM.Annotations.Domain\\Interfaces"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}

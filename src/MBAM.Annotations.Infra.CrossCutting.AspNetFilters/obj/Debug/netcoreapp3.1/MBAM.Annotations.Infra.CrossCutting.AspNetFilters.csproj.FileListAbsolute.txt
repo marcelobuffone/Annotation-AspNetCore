@@ -1,0 +1,9 @@
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\bin\Debug\netcoreapp3.1\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.deps.json
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\bin\Debug\netcoreapp3.1\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp3.1\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp3.1\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp3.1\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\bin\Debug\netcoreapp3.1\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp3.1\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp3.1\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\obj\Debug\netcoreapp3.1\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj.CoreCompileInputs.cache

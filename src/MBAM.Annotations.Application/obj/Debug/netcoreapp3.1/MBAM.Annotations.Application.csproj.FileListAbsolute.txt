@@ -1,0 +1,14 @@
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\bin\Debug\netcoreapp3.1\MBAM.Annotations.Application.deps.json
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\bin\Debug\netcoreapp3.1\MBAM.Annotations.Application.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\bin\Debug\netcoreapp3.1\MBAM.Annotations.Application.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\bin\Debug\netcoreapp3.1\MBAM.Annotations.Domain.Core.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\bin\Debug\netcoreapp3.1\MBAM.Annotations.Domain.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\bin\Debug\netcoreapp3.1\MBAM.Annotations.Domain.Core.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\bin\Debug\netcoreapp3.1\MBAM.Annotations.Domain.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\obj\Debug\netcoreapp3.1\MBAM.Annotations.Application.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\obj\Debug\netcoreapp3.1\MBAM.Annotations.Application.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\obj\Debug\netcoreapp3.1\MBAM.Annotations.Application.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\obj\Debug\netcoreapp3.1\MBAM.Annotations.Application.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\obj\Debug\netcoreapp3.1\MBAM.Annotations.Application.csproj.CopyComplete
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\obj\Debug\netcoreapp3.1\MBAM.Annotations.Application.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Application\obj\Debug\netcoreapp3.1\MBAM.Annotations.Application.pdb
