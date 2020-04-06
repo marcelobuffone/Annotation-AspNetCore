@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zb88zx0RgRVQnrokRmwm5JhY5oexcZxYG0pPUP+LFZq1imgISBCJYxe6CoUqRSN7+Fl/fYdqD0cMrAN86/SaLA==",
+  "dgSpecHash": "EcZov7UvQ2lsxH1XoqDTC4A01UaWVpSv3IaF8BcnDXfp/fPYfyKGUj3HYEN0C6eOibMUioCJH+tP4Sc04Lr7uA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.IOC\\MBAM.Annotations.Infra.CrossCutting.IOC.csproj",
+  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.IOC\\MBAM.Annotations.Infra.CrossCutting.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",

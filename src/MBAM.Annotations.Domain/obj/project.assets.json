@@ -165,11 +165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Domain\\MBAM.Annotations.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Domain\\MBAM.Annotations.Domain.csproj",
       "projectName": "MBAM.Annotations.Domain",
-      "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Domain\\MBAM.Annotations.Domain.csproj",
+      "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Domain\\MBAM.Annotations.Domain.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Domain\\obj\\",
+      "outputPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -190,8 +190,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Domain.Core\\MBAM.Annotations.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Domain.Core\\MBAM.Annotations.Domain.Core.csproj"
+            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Domain.Core\\MBAM.Annotations.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Domain.Core\\MBAM.Annotations.Domain.Core.csproj"
             }
           }
         }

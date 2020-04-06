@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5QV0uoPTQeCx0OAaRRoN1G5fAc/BYRCUiqS7Z1BuSbIHuyb7oBE5eycoAUVo60xrTnjftLzc31BX5CFwlaI2w==",
+  "dgSpecHash": "4y7Q7abUoEo5j74lK+vf4AQNhwLg9Quz93V3iff/eLAGDaYwNhD6Rt3anBNfnh0pYYODayC2eT645kfTOiZ6dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj",
+  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

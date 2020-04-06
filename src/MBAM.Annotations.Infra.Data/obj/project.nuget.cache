@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "znYo1mL9vyE9iqt+h1I6Q5I6cTBhtBWWDyuaqqW1ws2J/JXGM6ujR9yLaoQ/U6v6hSj/G6GDxZ3NsW/lKhUkeQ==",
+  "dgSpecHash": "cevKdLPThLAd2fxpHjW360bDw4NyVjUZw4V7+FGXClq9j6bkIorFSg37Q7vRztJn9EDzlSQRhn6csCl8OXNQbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.Data\\MBAM.Annotations.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.Data\\MBAM.Annotations.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\fluentvalidation\\8.5.0-preview4\\fluentvalidation.8.5.0-preview4.nupkg.sha512",

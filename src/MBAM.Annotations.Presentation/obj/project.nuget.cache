@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YVquSkg9Heho54PasX2RFfkgYrhTUxSYhe6BHW8Oh8rFpnCtbY76+c+Rqz5CHMm3B9Ane3kWs6n9zYGlWrRz3Q==",
+  "dgSpecHash": "rb/77Itghht7bZiDRTDgREntfmDixUyIpBJ4rLuP5UlfYUFVegEu1NVJDSH46RrwGQ2/j3/yuWyVzvbt6l4okQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Presentation\\MBAM.Annotations.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Presentation\\MBAM.Annotations.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",

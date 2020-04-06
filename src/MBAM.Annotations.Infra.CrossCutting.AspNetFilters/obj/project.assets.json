@@ -6363,11 +6363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj",
       "projectName": "MBAM.Annotations.Infra.CrossCutting.AspNetFilters",
-      "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj",
+      "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\obj\\",
+      "outputPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

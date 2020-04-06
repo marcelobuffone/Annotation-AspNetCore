@@ -8256,11 +8256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.IOC\\MBAM.Annotations.Infra.CrossCutting.IOC.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.IOC\\MBAM.Annotations.Infra.CrossCutting.IOC.csproj",
       "projectName": "MBAM.Annotations.Infra.CrossCutting.IOC",
-      "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.IOC\\MBAM.Annotations.Infra.CrossCutting.IOC.csproj",
+      "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.IOC\\MBAM.Annotations.Infra.CrossCutting.IOC.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.IOC\\obj\\",
+      "outputPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8281,20 +8281,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Application\\MBAM.Annotations.Application.csproj": {
-              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Application\\MBAM.Annotations.Application.csproj"
+            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Application\\MBAM.Annotations.Application.csproj": {
+              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Application\\MBAM.Annotations.Application.csproj"
             },
-            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Domain\\MBAM.Annotations.Domain.csproj": {
-              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Domain\\MBAM.Annotations.Domain.csproj"
+            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Domain\\MBAM.Annotations.Domain.csproj": {
+              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Domain\\MBAM.Annotations.Domain.csproj"
             },
-            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj": {
-              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj"
+            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj": {
+              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters\\MBAM.Annotations.Infra.CrossCutting.AspNetFilters.csproj"
             },
-            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.Bus\\MBAM.Annotations.Infra.CrossCutting.Bus.csproj": {
-              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.CrossCutting.Bus\\MBAM.Annotations.Infra.CrossCutting.Bus.csproj"
+            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.Bus\\MBAM.Annotations.Infra.CrossCutting.Bus.csproj": {
+              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.CrossCutting.Bus\\MBAM.Annotations.Infra.CrossCutting.Bus.csproj"
             },
-            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.Data\\MBAM.Annotations.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Infra.Data\\MBAM.Annotations.Infra.Data.csproj"
+            "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.Data\\MBAM.Annotations.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Infra.Data\\MBAM.Annotations.Infra.Data.csproj"
             }
           }
         }

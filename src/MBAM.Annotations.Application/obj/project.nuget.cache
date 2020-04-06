@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mM/2BcVhWADnZfpC9lNC+cwS3QskNt2WUKE7lUP+NuhuVsfbi1kB0nTglez1lEDKbtKv0ETY9bFVnk0Ws2XRtA==",
+  "dgSpecHash": "vlvPHCjTdw/Z2MHUZnoc1A4t2cCGQ7Wx44WOx1PJlJmW4+Os6vNvV2jEk0BnoAZoP64eD/sMdlsp8OHPvKFQfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\Annotations\\src\\MBAM.Annotations.Application\\MBAM.Annotations.Application.csproj",
+  "projectFilePath": "C:\\Users\\marce\\OneDrive\\Área de Trabalho\\Project\\AnnotationsSite\\src\\MBAM.Annotations.Application\\MBAM.Annotations.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\fluentvalidation\\8.5.0-preview4\\fluentvalidation.8.5.0-preview4.nupkg.sha512",
