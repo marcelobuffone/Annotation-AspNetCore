@@ -16,9 +16,11 @@ namespace MBAM.Annotations.Domain.Annotations
         {
             Id = Guid.NewGuid();
             Title = title;
+
             Description = description;
             AnnotationId = annotationId;
             CreateDate = DateTime.Now;
+            RemoveEmptyLines();
         }
 
         protected AnnotationHistory() { }
@@ -35,9 +37,17 @@ namespace MBAM.Annotations.Domain.Annotations
             RuleFor(e => e.Title)
                 .NotEmpty().WithMessage("Title cannot be empty")
                 .Length(2, 100).WithMessage("Title Min. 2 Max. 100 Characters");
-            
+
             RuleFor(e => e.Description)
                 .NotEmpty().WithMessage("Description cannot be empty");
+        }
+
+        private void RemoveEmptyLines()
+        {
+            while (Description.Contains("\r\n\r\n"))
+            {
+                Description = Description.Replace("\r\n\r\n", "\r\n");
+            }
         }
     }
 }
