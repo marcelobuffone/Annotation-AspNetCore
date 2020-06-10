@@ -1,6 +1,0 @@
-C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.IOC\bin\Debug\netcoreapp2.0\MBAM.Annotations.Infra.CrossCutting.IOC.deps.json
-C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.IOC\bin\Debug\netcoreapp2.0\MBAM.Annotations.Infra.CrossCutting.IOC.dll
-C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.IOC\obj\Debug\netcoreapp2.0\MBAM.Annotations.Infra.CrossCutting.IOC.csprojResolveAssemblyReference.cache
-C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.IOC\obj\Debug\netcoreapp2.0\MBAM.Annotations.Infra.CrossCutting.IOC.csproj.CoreCompileInputs.cache
-C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.IOC\obj\Debug\netcoreapp2.0\MBAM.Annotations.Infra.CrossCutting.IOC.AssemblyInfoInputs.cache
-C:\Users\marce\OneDrive\Área de Trabalho\Project\Annotations\src\MBAM.Annotations.Infra.CrossCutting.IOC\obj\Debug\netcoreapp2.0\MBAM.Annotations.Infra.CrossCutting.IOC.AssemblyInfo.cs
